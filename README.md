@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Adam+Raya;Welcome+to+my+GitHub+profile!;Frontend+%7C+Backend+%7C+AI+Enthusiast&center=true&width=600&height=45&color=00FFAA&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </h1>
 
-# 🌐 Socials:
+# 💬 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-adamraya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adamraya11@gmail.com) 
 
 # 🔠 LANGUAGES:
